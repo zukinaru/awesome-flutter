@@ -563,6 +563,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders](https://github.com/whatsupcoders/Whatsupcoders-flutter).
 
+## Other Resources
+- [Flutter Learning Resources](https://github.com/zukinaru/learning-flutter) -  by [Zukinaru](https://github.com/zukinaru).
 
 ## Community
 
